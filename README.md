@@ -3,6 +3,7 @@
 <h1 align="center">Hello, I'm Igor Calabraro 👋</h1>
 <p align="center">
   <em>Software Engineer</em>
+  <br/>Studying Computer Science at <a href="https://unip.br">UNIP</a>
 </p>
 
 <hr/>
