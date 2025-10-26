@@ -1,16 +1,63 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c22137&height=120&section=header"/>
 
-<!--
-**igorcalabraro/igorcalabraro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, I'm Igor Calabraro 👋</h1>
+<p align="center">
+  <em>Software Engineer</em>
+</p>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/igor-calabraro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=invision&logoColor=white" target="_blank"/></a>
+  <a href="malito:igorcalabraro@icloud.com"><img alt="igorcalabraro@icloud.com" src="https://img.shields.io/badge/igorcalabraro%40icloud.com-3693F3?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?phone=5511988406193&text=Ola, vi seu perfil no GitHub!"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
+</div>
+
+<div align="center">
+
+  ### Frontend
+  ![HTML](https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=react&logoColor=white)
+  ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Svelte](https://img.shields.io/badge/Svelte-e96900?style=for-the-badge&logo=svelte&logoColor=white)
+  
+  ### Backend
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Java/Spring (learning)](https://img.shields.io/badge/Java%2FSpring%20(learning)-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white)
+  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+  
+  ### Database
+  ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-103c5e?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-65ade4?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-e66000?style=for-the-badge&logo=firebase&logoColor=white)
+  
+  ### Cloud
+  ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=dask&logoColor=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-F8F8F8?style=for-the-badge&logo=render&logoColor=black)
+  ![Vercel](https://img.shields.io/badge/Vercel-F8F8F8?style=for-the-badge&logo=vercel&logoColor=black)
+  
+  ### Tools
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-F8F8F8?style=for-the-badge&logo=github&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+  ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
+  
+</div>
+
+<hr/>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorcalabraro&show_icons=true&count_private=true&hide_border=true&title_color=c22137&icon_color=c22137&text_color=c9d1d9&bg_color=0d1117" alt="Igor Calabraro GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcalabraro&layout=compact&hide_border=true&title_color=c22137&text_color=c22137&bg_color=0d1117" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c22137&height=120&section=footer"/>
