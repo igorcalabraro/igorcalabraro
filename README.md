@@ -9,7 +9,7 @@
 <hr/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/igor-calabraro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=invision&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/igorcalabraro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=invision&logoColor=white" target="_blank"/></a>
   <a href="malito:igorcalabraro@icloud.com"><img alt="igorcalabraro@icloud.com" src="https://img.shields.io/badge/igorcalabraro%40icloud.com-3693F3?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://api.whatsapp.com/send?phone=5511988406193&text=Ola, vi seu perfil no GitHub!"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
 </div>
