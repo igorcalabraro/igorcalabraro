@@ -2,7 +2,7 @@
 
 Studying a Bachelor's Degree in Computer Science (4th/8th semester) at Paulista University.
 
-Reach me at: igorcalabraro@icloud.com
+Reach me at: contato@igorcalabraro.com.br
 
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,lua,postgres,mysql,aws,docker,git)](https://skillicons.dev)
